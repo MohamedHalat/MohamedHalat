@@ -6,3 +6,5 @@
 <p>
   &nbsp; 🎓 Enrolled at The University of Toronto, Computer Science Program
 </p>
+
+![Readme Stats](https://github-readme-stats.vercel.app/api?username=MohamedHalat&show_icons=true&count_private=true)
