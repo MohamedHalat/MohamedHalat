@@ -4,6 +4,9 @@
   &nbsp; 👨🏾‍💻 Junior Full Stack Developer at <a href="https://verto.health"> Verto Health </a>
 </p>
 <p>
+  &nbsp; 👨🏾‍💻 Incomming Software Developer at <a href="https://www.wealthsimple.com"> Wealthsimple </a>
+</p>
+<p>
   &nbsp; 🎓 Enrolled at The University of Toronto, Computer Science Program
 </p>
 
