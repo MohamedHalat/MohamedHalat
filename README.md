@@ -1,7 +1,7 @@
 # Hi There 👋
 #### I'm Mohamed Halat
 <p>
-  &nbsp; 👨🏾‍💻 Junior Full Stack Developer at <a href="https://verto.health"> Verto Health </a>
+  &nbsp; 👨🏾‍💻 Full Stack Developer at <a href="https://verto.health"> Verto Health </a>
 </p>
 <p>
   &nbsp; 👨🏾‍💻 Ex Software Developer at <a href="https://www.wealthsimple.com"> Wealthsimple </a>
